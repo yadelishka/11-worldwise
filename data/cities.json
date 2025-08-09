@@ -35,6 +35,18 @@
         "lng": 13.376933665713324
       },
       "id": "98443197"
+    },
+    {
+      "id": "1d3f",
+      "cityName": "Bol’shaya Glushitsa",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2025-08-09T10:25:39.396Z",
+      "notes": "",
+      "position": {
+        "lat": "52.69729613157443",
+        "lng": "50.443725606855374"
+      }
     }
   ]
 }
